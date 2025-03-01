@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1739358828 source:c:\users\admin\documents\code\demosdl\main.cpp
+	"Engine.h"
+
+1740558524 source:c:\users\admin\documents\code\demosdl\src\core\engine.cpp
+	"Engine.h"
+	<iostream>
+	"TextureManager.h"
+
+1740556667 c:\users\admin\documents\code\demosdl\src\core\engine.h
+	<SDL.h>
+	<SDL_image.h>
+
+1740558524 c:\users\admin\documents\code\demosdl\src\graphics\texturemanager.h
+	<string>
+	<SDL.h>
+	<map>
+
+1740559144 source:c:\users\admin\documents\code\demosdl\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
